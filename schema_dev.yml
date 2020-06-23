@@ -1,11 +1,6 @@
 ruby:
-    - 2.2.7
-    - 2.3.4
-    - 2.4.1
+    - 2.5.3@schemadev
 activerecord:
-    - 4.2
-    - 5.0
-    - 5.1
-    - 5.2
+    - edge
 db:
     - postgresql
